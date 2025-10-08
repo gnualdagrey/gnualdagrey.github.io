@@ -4,7 +4,7 @@ function Footer() {
   return (
     <> 
     <footer>
-        <p>&copy; 2024 John Doe. All rights reserved.</p>
+        <p>&copy; 2024 Geoffrey Grey. All rights reserved.</p>
     </footer>
     </>
   )
