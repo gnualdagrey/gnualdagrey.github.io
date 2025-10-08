@@ -5,7 +5,7 @@ function About() {
       <h2>About Me</h2>
       <div className="about-content">
         <div className="profile-image">
-          <img src="public/cv.png"/>
+          <img className="profile-pic" src="cv.png"/>
         </div>
         <div className="about-text">
           <p>Hello! I'm a passionate web developer with a love for creating beautiful and functional websites. I enjoy turning complex problems into simple, elegant solutions.</p>

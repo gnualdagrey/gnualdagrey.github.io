@@ -2,12 +2,15 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+           
+
         }
 
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             color: #333;
+              
         }
 
         /* Header Section */
@@ -30,7 +33,7 @@
 
         /* Navigation */
         nav {
-            background: #0c0c0c;
+            background: #3b3a3a;
             padding: 15px 0;
             position: sticky;
             top: 0;
@@ -88,8 +91,8 @@
         }
 
         .profile-image {
-            width: 100px;
-            height: 100px;
+            width: 200px;
+            height: 200px;
             border-radius: 50%;
             background: linear-gradient(135deg, #667eea 0%, #3538d0 100%);
             display: flex;
@@ -97,6 +100,15 @@
             justify-content: center;
             font-size: 4em;
             color: white;
+        }
+        .profile-pic{
+            width: 200px;
+            height: 180px;
+            border-radius: 55%;
+            align-items: center;
+            justify-content: center;
+            margin-top: 15px;
+            display: flex;
             object-fit: contain;
         }
 
@@ -145,7 +157,7 @@
         }
 
         .skill-progress {
-            background: linear-gradient(90deg, #667eea, #764ba2);
+            background: linear-gradient(90deg, #667eea,  #3538d0);
             height: 100%;
             border-radius: 5px;
         }
@@ -173,7 +185,7 @@
 
         .project-image {
             height: 200px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #667eea 0%,  #3538d0 100%);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -244,7 +256,7 @@
         }
 
         .submit-btn {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #667eea 0%,  #3538d0 100%);
             color: white;
             border: none;
             padding: 15px 40px;
