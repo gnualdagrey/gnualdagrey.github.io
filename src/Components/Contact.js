@@ -42,8 +42,8 @@ export default function Contact() {
 
                 <div className="social-links">
                     <a href="#" title="GitHub">📦</a>
-                    <a href="#" title="Facebook">ⓕ</a>
-                    <a href="#" title="Email">✉️</a>
+                    <a href="https://www.facebook.com/yann2xgrey" title="Facebook">ⓕ</a>
+                    <a href="mailto:gnualdagrey@gmail.com" title="Email">✉️</a>
                 </div>
             </div>
         </section> 
