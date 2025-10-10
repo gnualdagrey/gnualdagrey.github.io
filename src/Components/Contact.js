@@ -41,7 +41,7 @@ export default function Contact() {
                 </form>
 
                 <div className="social-links">
-                    <a href="#" title="GitHub">📦</a>
+                    <a href="https://github.com/gnualdagrey" title="GitHub">📦</a>
                     <a href="https://www.facebook.com/yann2xgrey" title="Facebook">ⓕ</a>
                     <a href="mailto:gnualdagrey@gmail.com" title="Email">✉️</a>
                 </div>
